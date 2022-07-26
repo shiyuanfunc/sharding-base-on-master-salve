@@ -1,0 +1,12 @@
+
+server:
+  port: 8081
+mybatis:
+  mapper-locations: mapper/**/*.xml
+
+spring:
+  application:
+    name: sharding-base-on-master-salve
+
+
+
